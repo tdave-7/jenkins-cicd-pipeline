@@ -1,0 +1,9 @@
+
+{
+  "name": "jenkins-cicd-pipeline",
+  "version": "1.0.0",
+  "description": "Simple CI/CD pipeline using Jenkins and GitHub",
+  "scripts": {
+    "test": "node --test"
+  }
+}
